@@ -2,16 +2,16 @@
 This project provides a secure and efficient method for concealing sensitive messages within images using Least Significant Bit (LSB) steganography. By embedding data within image pixels, this technique enables discreet communication while maintaining the image's visual integrity.
 <h1>Features</h1>
 Secure Message Embedding – Uses LSB encoding to hide text inside images without noticeable changes.
-✅ Passcode Protection – Ensures only authorized users can retrieve hidden messages.
-✅ Lightweight & Efficient – No heavy dependencies like NumPy, making it compact and fast.
-✅ Cross-Platform Support – Compatible with Windows, Linux, and macOS.
-✅ High Capacity – Large messages can be concealed in high-resolution images.
+* Passcode Protection – Ensures only authorized users can retrieve hidden messages.
+* Lightweight & Efficient – No heavy dependencies like NumPy, making it compact and fast.
+* Cross-Platform Support – Compatible with Windows, Linux, and macOS.
+* High Capacity – Large messages can be concealed in high-resolution images.
 
 <h1>Use Cases</h1>
-🔹 Journalists & Whistleblowers – Securely communicate sensitive information without detection.
-🔹 Cybersecurity Enthusiasts – Learn and implement steganographic techniques for research.
-🔹 Researchers & Developers – Enhance secure data transmission and cryptographic studies.
-🔹 Everyday Users – Privately share confidential messages without drawing attention.
+* Journalists & Whistleblowers – Securely communicate sensitive information without detection.
+* Cybersecurity Enthusiasts – Learn and implement steganographic techniques for research.
+* Researchers & Developers – Enhance secure data transmission and cryptographic studies.
+* Everyday Users – Privately share confidential messages without drawing attention.
 
 <h1>Installation</h1>
 Ensure you have Python 3.x installed. Then, clone the repository and install the required dependencies:
@@ -29,8 +29,8 @@ To retrieve the hidden message from an image:
 python extract.py --input hidden.png
 
 <h1>Future Enhancement</h1>
-🔹 Audio & Video Steganography – Extending support to embed messages in audio and video files.
-🔹 Graphical User Interface (GUI) – Making the tool user-friendly for non-technical users.
+* Audio & Video Steganography – Extending support to embed messages in audio and video files.
+* Graphical User Interface (GUI) – Making the tool user-friendly for non-technical users.
 🔹 AI-Based Image Optimization – Ensuring hidden data remains undetectable even under analysis.
 🔹 AES Encryption – Adding an extra security layer to protect embedded messages.
 🔹 Mobile Application – Developing an Android/iOS version for secure on-the-go usage.
