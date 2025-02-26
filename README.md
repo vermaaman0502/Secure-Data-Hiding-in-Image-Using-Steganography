@@ -50,5 +50,8 @@ pip install opencv-python
 Run the encryption script:
 ```bash
 python3 stegno.py
+```
+### Contributing
+Contributions are welcome! Feel free to submit pull requests or report issues in the repository.
 
 
