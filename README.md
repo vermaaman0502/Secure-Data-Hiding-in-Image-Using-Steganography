@@ -39,11 +39,11 @@ Clone the repository and navigate to the project folder:
 git clone https://github.com/vermaaman0502/Secure-Data-Hiding-in-Image-Using-Steganography.git
 cd Secure-Data-Hiding-in-Image-Using-Steganography
 
-####Install the required dependencies:
+## 📌 Installation & Usage  
+
+### 🔹 Installation  
+Install the required dependencies:  
 ```bash
-pip install -r requirements.txt ```bash
-###Usage
-To hide a message in an image:
-```bash
-python encode.py -i input_image.png -m "Your secret message" -o output_image.png
+pip install -r requirements.txt
+
 
