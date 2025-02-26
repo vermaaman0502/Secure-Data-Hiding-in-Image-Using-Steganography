@@ -44,6 +44,11 @@ cd Secure-Data-Hiding-in-Image-Using-Steganography
 ### 🔹 Installation  
 Install the required dependencies:  
 ```bash
-pip install -r requirements.txt
+pip install opencv-python
+```
+### Usage
+Run the encryption script:
+```bash
+python3 stegno.py
 
 
