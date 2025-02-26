@@ -41,9 +41,7 @@ cd Secure-Data-Hiding-in-Image-Using-Steganography
 
 ####Install the required dependencies:
 ```bash
-pip install -r requirements.txt
-
-
+pip install -r requirements.txt ```bash
 ###Usage
 To hide a message in an image:
 ```bash
