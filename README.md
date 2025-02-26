@@ -38,7 +38,7 @@ Clone the repository and navigate to the project folder:
 ```bash
 git clone https://github.com/vermaaman0502/Secure-Data-Hiding-in-Image-Using-Steganography.git
 cd Secure-Data-Hiding-in-Image-Using-Steganography
-
+```
 ## 📌 Installation & Usage  
 
 ### 🔹 Installation  
